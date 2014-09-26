@@ -19,6 +19,6 @@
 	</dependency>
   </dependencies>
   <build>
-    <finalName>spring-web1</finalName>
+    <finalName>spring-webs</finalName>
   </build>
 </project>
